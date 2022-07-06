@@ -1,0 +1,31 @@
+#Título-do-site{
+    color: black;
+    font-family: Arial;
+    font-size: 13px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.Pesquisa-Oswaldo{
+    color: rgb(97, 2, 2);
+    font-family: Arial;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+#Estudos{
+    color: rgb(99, 88, 88);
+    font-size: 8px;
+    text-align: center;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+#Primeiro-link{
+    padding-top: 50px;
+    margin-left: 850px;
+    color: black;
+    
+}
